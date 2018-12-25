@@ -6,6 +6,17 @@
 
 }
 
+.cat-name {
+    display: flex;
+}
+
+.cat-name li {
+    margin: 18px;
+    padding: 5px;
+    border: 2px solid black;
+    list-style: none;
+}
+
 
 .picture {
     width: 300px;
